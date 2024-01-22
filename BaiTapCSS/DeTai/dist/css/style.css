@@ -1,0 +1,7 @@
+body {
+    background-color: #c49797;
+}
+.header__navbar-list {
+    text-decoration: none;
+    list-style-type: none;
+}
